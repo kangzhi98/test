@@ -70,12 +70,13 @@
         <label>Email :</label>
         <input type="email" name="email" class="form-control" />
     </div>
+    <!--
     <div class="form-group mb-4">
 
         <label>Address Label :</label>
         <input type="text" name="addresslabel" class="form-control" />
     </div>
-
+-->
     <div class="form-group mb-4">
 
 <label>Address:</label>

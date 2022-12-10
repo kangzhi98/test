@@ -21,7 +21,7 @@
     $email        = $_POST['email'];
 
     // if not used - leave blank!
-    $addressLabel     = $_POST['addresslabel'];
+    //$addressLabel     = $_POST['addresslabel'];
     //$addressPobox     = $_POST['addresspobox'];
     //$addressExt       = $_POST['addressext'];
    // $addressStreet    = $_POST['addressstreet'];
