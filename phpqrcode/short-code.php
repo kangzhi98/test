@@ -31,6 +31,7 @@
    // $addressCountry   = $_POST['addresscountry'];
     $website=$_POST['website'];
     $address=$_POST['address'];
+    $jobtitle=$_POST['jobtitle'];
 
 
     // we building raw data
@@ -58,6 +59,8 @@
     $codeContents .='ADR;WORK:'.$address."\n";
     $codeContents .= 'EMAIL:'.$email."\n";
     $codeContents .= 'URL;type=pref:'.$website."\n";
+    $codeContents .= 'TITLE:'.$jobtitle."\n";
+
 
     $codeContents .= 'END:VCARD';
 $r=rand();

@@ -1,6 +1,5 @@
 <title>QR Code</title>
 <link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/1341/1341632.png">
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
@@ -121,6 +120,13 @@
         <label>Address Country :</label>
         <input type="text" name="addresscountry"class="form-control" />
     </div>-->
+
+    <div class="form-group mb-4">
+
+<label>Job Title </label>
+<input type="text" name="jobtitle" class="form-control" />
+</div>
+
     <div class="form-group mb-4">
 
 <label>Website </label>
