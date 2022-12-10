@@ -8,7 +8,7 @@
         $('form').on('submit', function(e) {
            
             e.preventDefault();
-            $( "#result" ).remove();
+           
             $.ajax({
                 type: 'post',
                 url: 'codeprocess.php',
