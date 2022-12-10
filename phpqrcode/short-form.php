@@ -37,11 +37,11 @@
     <div class="form-group mb-4" >
 
 <label>Office Phone :</label>
- <input type="" name="officephone" class="form-control" />
+ <input type="text" name="officephone" class="form-control" />
 </div>
 <div class="form-group mb-4" >
 <label>Whatsapp :</label>
- <input type="" name="whatsapp" class="form-control" />
+ <input type="text" name="whatsapp" class="form-control" />
 </div>
 
 
